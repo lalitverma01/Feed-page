@@ -1,0 +1,21 @@
+@import url(root.css);
+
+.navbar-collapse {
+    flex-grow: 0 !important;
+}
+
+
+.nav-link:hover {
+    transform: scale(1.2);
+    transition: all 300ms linear;
+}
+
+.lh-24 {
+    line-height: 24px;
+}
+
+.btn {
+    padding: 11px 28px !important;
+    border-radius: 23px !important;
+    border: none;
+}
